@@ -1,2 +1,2 @@
-# legox
-learning go with examples
+# sego
+simple examples of go
