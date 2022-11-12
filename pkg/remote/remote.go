@@ -1,5 +1,5 @@
 package remote
 
-func Ping() {
+func Ping() string {
   return "Pong"
 }
