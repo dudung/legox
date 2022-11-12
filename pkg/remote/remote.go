@@ -1,5 +1,5 @@
 package remote
 
 function Ping() {
-  return "pong"
+  return "Pong"
 }
