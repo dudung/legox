@@ -4,11 +4,11 @@
   
   Sprisoma Viridi | https://github.com/dudung
   
+  20221112 Copy [1] and modify it.
+  
   execute:
   go mod tidy
   go run .
-  
-  20221112 Copy [1] and modify it.
   
   refs
   1. url https://go.dev/doc/tutorial/getting-started [20221112].
