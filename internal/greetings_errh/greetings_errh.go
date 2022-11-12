@@ -1,16 +1,16 @@
 /*
-  greetings2.go
-  A module with error handler to be called by hi2.go
+  greetings_errh.go
+  A module with error handler to be called by hi_errh.go
   
   Sparisoma Viridi | https://github.com/dudung
   
-  20221112 Copy [1] and modifyt it.
+  20221112 Copy [1] and modify it.
   
   refs
   1. url https://go.dev/doc/tutorial/handle-errors [20221112].
 */
 
-package greetings2
+package greetings_errh
 
 import (
   "errors"

@@ -4,7 +4,7 @@
   
   Sparisoma Viridi | https://github.com/dudung
   
-  20221112 Create this by copying [1] and modified it.
+  20221112 Create this by copying [1] and modify it.
   
   execute:
   go run .

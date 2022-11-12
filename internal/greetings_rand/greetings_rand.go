@@ -1,16 +1,16 @@
 /*
-  greetings3.go
-  A module with error handler to be called by hi3.go
+  greetings_rand.go
+  A module with error handler to be called by hi_rand.go
   
   Sparisoma Viridi | https://github.com/dudung
   
-  20221112 Copy [1] and modifyt it.
+  20221112 Copy [1] and modify it.
   
   refs
   1. url https://go.dev/doc/tutorial/random-greeting [20221112].
 */
 
-package greetings3
+package greetings_rand
 
 import (
   "errors"
