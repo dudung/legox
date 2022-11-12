@@ -7,7 +7,7 @@
   20221112 Copy [1] and modify it.
   
   execute:
-  go mode edit -replace github.com/dudung/greetings=../greetings
+  go mod edit -replace github.com/dudung/greetings=../greetings
   go mod tidy
   go run .
   
