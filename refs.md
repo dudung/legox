@@ -9,3 +9,4 @@ some refs while learning go
 + [Go Modules: Quick Start](https://github.com/golang/go/wiki/Modules#quick-start)
 + [Are there conventions for Go module names in mono-repos with multiple modules?](https://stackoverflow.com/a/56903542/9475509)
 + [Standard Go Project Layout](https://github.com/golang-standards/project-layout)
++ [Import Go module for certain version](https://stackoverflow.com/a/59155056/9475509)
